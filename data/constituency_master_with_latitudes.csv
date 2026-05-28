@@ -1,0 +1,235 @@
+ac_number,constituency,district,region,reserved,latitude,longitude
+1,Gummidipundi,Tiruvallur,Chennai Metro,GEN,13.08,80.27
+2,Ponneri,Tiruvallur,Chennai Metro,SC,13.08,80.27
+3,Tiruttani,Tiruvallur,Chennai Metro,GEN,13.08,80.27
+4,Thiruvallur,Tiruvallur,Chennai Metro,GEN,13.08,80.27
+5,Poonamallee,Tiruvallur,Chennai Metro,SC,13.08,80.27
+6,Avadi,Tiruvallur,Chennai Metro,GEN,13.08,80.27
+7,Maduravoyal,Tiruvallur,Chennai Metro,GEN,13.08,80.27
+8,Ambattur,Tiruvallur,Chennai Metro,GEN,13.08,80.27
+9,Madavaram,Tiruvallur,Chennai Metro,GEN,13.08,80.27
+10,Thiruvottiyur,Tiruvallur,Chennai Metro,GEN,13.08,80.27
+11,Dr. Radhakrishnan Nagar,Chennai,Chennai Metro,GEN,13.08,80.27
+12,Perambur,Chennai,Chennai Metro,GEN,13.08,80.27
+13,Kolathur,Chennai,Chennai Metro,GEN,13.08,80.27
+14,Villivakkam,Chennai,Chennai Metro,GEN,13.08,80.27
+15,Thiru-Vi-Ka-Nagar,Chennai,Chennai Metro,SC,13.08,80.27
+16,Egmore,Chennai,Chennai Metro,SC,13.08,80.27
+17,Royapuram,Chennai,Chennai Metro,GEN,13.08,80.27
+18,Harbour,Chennai,Chennai Metro,GEN,13.08,80.27
+19,Chepauk-Thiruvallikeni,Chennai,Chennai Metro,GEN,13.08,80.27
+20,Thousand Lights,Chennai,Chennai Metro,GEN,13.08,80.27
+21,Anna Nagar,Chennai,Chennai Metro,GEN,13.08,80.27
+22,Virugampakkam,Chennai,Chennai Metro,GEN,13.08,80.27
+23,Saidapet,Chennai,Chennai Metro,GEN,13.08,80.27
+24,Theayagaraya Nagar,Chennai,Chennai Metro,GEN,13.08,80.27
+25,Mylapore,Chennai,Chennai Metro,GEN,13.08,80.27
+26,Velachery,Chennai,Chennai Metro,GEN,13.08,80.27
+27,Shozhinganallur,Kanchipuram,Chennai Metro,GEN,13.08,80.27
+28,Alandur,Kanchipuram,Chennai Metro,GEN,13.08,80.27
+29,Sriperumbudur,Kanchipuram,Chennai Metro,SC,13.08,80.27
+30,Pallavaram,Kanchipuram,Chennai Metro,GEN,13.08,80.27
+31,Tambaram,Kanchipuram,Chennai Metro,GEN,13.08,80.27
+32,Chengalpattu,Kanchipuram,Chennai Metro,GEN,13.08,80.27
+33,Thiruporur,Kanchipuram,North,GEN,12.92,79.15
+34,Cheyyur,Kanchipuram,North,SC,12.92,79.15
+35,Maduranthakam,Kanchipuram,North,SC,12.92,79.15
+36,Uthiramerur,Kanchipuram,North,GEN,12.92,79.15
+37,Kancheepuram,Kanchipuram,North,GEN,12.92,79.15
+38,Arakonam,Vellore,North,SC,12.92,79.15
+39,Sholinghur,Vellore,North,GEN,12.92,79.15
+40,Katpadi,Vellore,North,GEN,12.92,79.15
+41,Ranipet,Vellore,North,GEN,12.92,79.15
+42,Arcot,Vellore,North,GEN,12.92,79.15
+43,Vellore,Vellore,North,GEN,12.92,79.15
+44,Anaikattu,Vellore,North,GEN,12.92,79.15
+45,Kilvaithinankuppam,Vellore,North,SC,12.92,79.15
+46,Gudiyatham,Vellore,North,SC,12.92,79.15
+47,Vaniayambadi,Vellore,North,GEN,12.92,79.15
+48,Ambur,Vellore,North,GEN,12.92,79.15
+49,Jolarpet,Vellore,North,GEN,12.92,79.15
+50,Tiruppattur,Vellore,North,GEN,12.92,79.15
+51,Uthangarai,Krishnagiri,North,SC,12.92,79.15
+52,Bargur,Krishnagiri,North,GEN,12.92,79.15
+53,Krishnagiri,Krishnagiri,North,GEN,12.92,79.15
+54,Veppanahalli,Krishnagiri,North,GEN,12.92,79.15
+55,Hosur,Krishnagiri,North,GEN,12.92,79.15
+56,Thalli,Krishnagiri,North,GEN,12.92,79.15
+57,Palacode,Dharmapuri,North,GEN,12.92,79.15
+58,Pennagaram,Dharmapuri,North,GEN,12.92,79.15
+59,Dharmapuri,Dharmapuri,North,GEN,12.92,79.15
+60,Pappireddippatti,Dharmapuri,North,GEN,12.92,79.15
+61,Harur,Dharmapuri,North,SC,12.92,79.15
+62,Chengam,Tiruvannamalai,North,SC,12.92,79.15
+63,Tiruvannamalai,Tiruvannamalai,North,GEN,12.92,79.15
+64,Kilpennathur,Tiruvannamalai,North,GEN,12.92,79.15
+65,Kalasapakkam,Tiruvannamalai,North,GEN,12.92,79.15
+66,Polur,Tiruvannamalai,North,GEN,12.92,79.15
+67,Arani,Tiruvannamalai,North,GEN,12.92,79.15
+68,Cheyyar,Tiruvannamalai,North,GEN,12.92,79.15
+69,Vandavasi,Tiruvannamalai,North,SC,12.92,79.15
+70,Gingee,Villupuram,Central,GEN,11.67,78.83
+71,Mailam,Villupuram,Central,GEN,11.67,78.83
+72,Tindivanam,Villupuram,Central,SC,11.67,78.83
+73,Vanur,Villupuram,Central,SC,11.67,78.83
+74,Villupuram,Villupuram,Central,GEN,11.67,78.83
+75,Vikravandi,Villupuram,Central,GEN,11.67,78.83
+76,Tirukkoyilur,Villupuram,Central,GEN,11.67,78.83
+77,Ulundurpet,Villupuram,Central,GEN,11.67,78.83
+78,Rishivandiam,Villupuram,Central,GEN,11.67,78.83
+79,Sankarapuram,Villupuram,Central,GEN,11.67,78.83
+80,Kallakurichi,Villupuram,Central,SC,11.67,78.83
+81,Gangavalli,Salem,Central,SC,11.67,78.83
+82,Attur,Salem,Central,SC,11.67,78.83
+83,Yercaud,Salem,Central,ST,11.67,78.83
+84,Omalur,Salem,Central,GEN,11.67,78.83
+85,Mettur,Salem,Central,GEN,11.67,78.83
+86,Edapadi,Salem,Central,GEN,11.67,78.83
+87,Sankari,Salem,Central,GEN,11.67,78.83
+88,Salem (West),Salem,Central,GEN,11.67,78.83
+89,Salem (North),Salem,Central,GEN,11.67,78.83
+90,Salem (South),Salem,Central,GEN,11.67,78.83
+91,Veerapandi,Salem,Central,GEN,11.67,78.83
+92,Rasipuram,Namakkal,Central,SC,11.67,78.83
+93,Sendamangalam,Namakkal,Central,ST,11.67,78.83
+94,Namakkal,Namakkal,Central,GEN,11.67,78.83
+95,Paramathi-Velur,Namakkal,Central,GEN,11.67,78.83
+96,Tiruchengode,Namakkal,Central,GEN,11.67,78.83
+97,Kumarapalayam,Namakkal,Central,GEN,11.67,78.83
+98,Erode (East),Erode,Kongu,GEN,11.01,77.01
+99,Erode (West),Erode,Kongu,GEN,11.01,77.01
+100,Modakurichi,Erode,Kongu,GEN,11.01,77.01
+101,Dharapuram,Erode,Kongu,SC,11.01,77.01
+102,Kangayam,Erode,Kongu,GEN,11.01,77.01
+103,Perundurai,Erode,Kongu,GEN,11.01,77.01
+104,Bhavani,Erode,Kongu,GEN,11.01,77.01
+105,Anthiyur,Erode,Kongu,GEN,11.01,77.01
+106,Gobichettipalayam,Tirupur,Kongu,GEN,11.01,77.01
+107,Bhavanisagar,Tirupur,Kongu,SC,11.01,77.01
+108,Udhagamandalam,Tirupur,Kongu,GEN,11.01,77.01
+109,Gudalur,Tirupur,Kongu,SC,11.01,77.01
+110,Coonoor,Tirupur,Kongu,GEN,11.01,77.01
+111,Mettupalayam,Tirupur,Kongu,GEN,11.01,77.01
+112,Avanashi,Tirupur,Kongu,SC,11.01,77.01
+113,Tiruppur (North),Tirupur,Kongu,GEN,11.01,77.01
+114,Tiruppur (South),Nilgiris,Kongu,GEN,11.01,77.01
+115,Palladam,Nilgiris,Kongu,GEN,11.01,77.01
+116,Sulur,Nilgiris,Kongu,GEN,11.01,77.01
+117,Kavundampalayam,Coimbatore,Kongu,GEN,11.01,77.01
+118,Coimbatore North,Coimbatore,Kongu,GEN,11.01,77.01
+119,Thondamuthur,Coimbatore,Kongu,GEN,11.01,77.01
+120,Coimbatore South,Coimbatore,Kongu,GEN,11.01,77.01
+121,Singanallur,Coimbatore,Kongu,GEN,11.01,77.01
+122,Kinathukadavu,Coimbatore,Kongu,GEN,11.01,77.01
+123,Pollachi,Coimbatore,Kongu,GEN,11.01,77.01
+124,Valparai,Coimbatore,Kongu,SC,11.01,77.01
+125,Udumalpet,Coimbatore,Kongu,GEN,11.01,77.01
+126,Madathukulam,Coimbatore,Kongu,GEN,11.01,77.01
+127,Palani,Dindigul,South,GEN,9.92,77.93
+128,Oddanchatram,Dindigul,South,GEN,9.92,77.93
+129,Athoor,Dindigul,South,GEN,9.92,77.93
+130,Nilakottai,Dindigul,South,SC,9.92,77.93
+131,Natham,Dindigul,South,GEN,9.92,77.93
+132,Dindigul,Dindigul,South,GEN,9.92,77.93
+133,Vedasandur,Dindigul,South,GEN,9.92,77.93
+134,Aravakurichi,Karur,Kongu,GEN,11.01,77.01
+135,Karur,Karur,Kongu,GEN,11.01,77.01
+136,Krishnarayapuram,Karur,Kongu,SC,11.01,77.01
+137,Kulithalai,Karur,Kongu,GEN,11.01,77.01
+138,Manapparai,Tiruchirappalli,Delta,GEN,10.8,79.15
+139,Srirangam,Tiruchirappalli,Delta,GEN,10.8,79.15
+140,Tiruchirapalli (West),Tiruchirappalli,Delta,GEN,10.8,79.15
+141,Tiruchirapalli (East),Tiruchirappalli,Delta,GEN,10.8,79.15
+142,Thiruverambur,Tiruchirappalli,Delta,GEN,10.8,79.15
+143,Lalgudi,Tiruchirappalli,Delta,GEN,10.8,79.15
+144,Manachanallur,Tiruchirappalli,Delta,GEN,10.8,79.15
+145,Musiri,Tiruchirappalli,Delta,GEN,10.8,79.15
+146,Thuraiyur,Tiruchirappalli,Delta,SC,10.8,79.15
+147,Perambalur,Perambalur,Central,SC,11.67,78.83
+148,Kunnam,Perambalur,Central,GEN,11.67,78.83
+149,Ariyalur,Ariyalur,Central,GEN,11.67,78.83
+150,Jayankondam,Ariyalur,Central,GEN,11.67,78.83
+151,Tittakudi,Cuddalore,Central,SC,11.67,78.83
+152,Vriddhachalam,Cuddalore,Central,GEN,11.67,78.83
+153,Neyveli,Cuddalore,Central,GEN,11.67,78.83
+154,Panruti,Cuddalore,Central,GEN,11.67,78.83
+155,Cuddalore,Cuddalore,Central,GEN,11.67,78.83
+156,Kurinjipadi,Cuddalore,Central,GEN,11.67,78.83
+157,Bhuvanagiri,Cuddalore,Central,GEN,11.67,78.83
+158,Chidambaram,Cuddalore,Central,GEN,11.67,78.83
+159,Kattumannarkoil,Cuddalore,Central,SC,11.67,78.83
+160,Sirkali,Nagapattinam,Delta,SC,10.8,79.15
+161,Mayiladuthurai,Nagapattinam,Delta,GEN,10.8,79.15
+162,Poompuhar,Nagapattinam,Delta,GEN,10.8,79.15
+163,Nagapattinam,Nagapattinam,Delta,GEN,10.8,79.15
+164,Kilvelur,Nagapattinam,Delta,SC,10.8,79.15
+165,Vedaranyam,Nagapattinam,Delta,GEN,10.8,79.15
+166,Thiruthuraipundi,Tiruvarur,Delta,SC,10.8,79.15
+167,Mannargudi,Tiruvarur,Delta,GEN,10.8,79.15
+168,Thiruvarur,Tiruvarur,Delta,GEN,10.8,79.15
+169,Nannilam,Tiruvarur,Delta,GEN,10.8,79.15
+170,Thiruvidamarudur,Thanjavur,Delta,SC,10.8,79.15
+171,Kumbakonam,Thanjavur,Delta,GEN,10.8,79.15
+172,Papanasam,Thanjavur,Delta,GEN,10.8,79.15
+173,Thiruvaiyaru,Thanjavur,Delta,GEN,10.8,79.15
+174,Thanjavur,Thanjavur,Delta,GEN,10.8,79.15
+175,Orathanad,Thanjavur,Delta,GEN,10.8,79.15
+176,Pattukkottai,Thanjavur,Delta,GEN,10.8,79.15
+177,Peravurani,Thanjavur,Delta,GEN,10.8,79.15
+178,Gandharvakottai,Pudukkottai,Delta,SC,10.8,79.15
+179,Viralimalai,Pudukkottai,Delta,GEN,10.8,79.15
+180,Pudukkottai,Pudukkottai,Delta,GEN,10.8,79.15
+181,Thirumayam,Pudukkottai,Delta,GEN,10.8,79.15
+182,Alangudi,Pudukkottai,Delta,GEN,10.8,79.15
+183,Arantangi,Pudukkottai,Delta,GEN,10.8,79.15
+184,Karaikudi,Sivaganga,South,GEN,9.92,77.93
+185,Tiruppattur,Sivaganga,South,GEN,9.92,77.93
+186,Sivaganga,Sivaganga,South,GEN,9.92,77.93
+187,Manamadurai,Sivaganga,South,SC,9.92,77.93
+188,Melur,Madurai,South,GEN,9.92,77.93
+189,Madurai East,Madurai,South,GEN,9.92,77.93
+190,Sholavandan,Madurai,South,SC,9.92,77.93
+191,Madurai North,Madurai,South,GEN,9.92,77.93
+192,Madurai South,Madurai,South,GEN,9.92,77.93
+193,Madurai Central,Madurai,South,GEN,9.92,77.93
+194,Madurai West,Madurai,South,GEN,9.92,77.93
+195,Thiruparankundram,Madurai,South,GEN,9.92,77.93
+196,Thirumangalam,Madurai,South,GEN,9.92,77.93
+197,Usilampatti,Madurai,South,GEN,9.92,77.93
+198,Andipatti,Theni,South,GEN,9.92,77.93
+199,Periyakulam,Theni,South,SC,9.92,77.93
+200,Bodinayakanur,Theni,South,GEN,9.92,77.93
+201,Cumbum,Theni,South,GEN,9.92,77.93
+202,Rajapalayam,Virudhunagar,South,GEN,9.92,77.93
+203,Srivilliputhur,Virudhunagar,South,SC,9.92,77.93
+204,Sattur,Virudhunagar,South,GEN,9.92,77.93
+205,Sivakasi,Virudhunagar,South,GEN,9.92,77.93
+206,Virudhunagar,Virudhunagar,South,GEN,9.92,77.93
+207,Aruppukottai,Virudhunagar,South,GEN,9.92,77.93
+208,Tiruchuli,Virudhunagar,South,GEN,9.92,77.93
+209,Paramakudi,Ramanathapuram,South,SC,9.92,77.93
+210,Tiruvadanai,Ramanathapuram,South,GEN,9.92,77.93
+211,Ramanathapuram,Ramanathapuram,South,GEN,9.92,77.93
+212,Mudukulathur,Ramanathapuram,South,GEN,9.92,77.93
+213,Vilathikulam,Thoothukudi,South,GEN,9.92,77.93
+214,Thoothukkudi,Thoothukudi,South,GEN,9.92,77.93
+215,Tiruchendur,Thoothukudi,South,GEN,9.92,77.93
+216,Srivaikuntam,Thoothukudi,South,GEN,9.92,77.93
+217,Ottapidaram,Thoothukudi,South,SC,9.92,77.93
+218,Kovilpatti,Thoothukudi,South,GEN,9.92,77.93
+219,Sankarankovil,Tirunelveli,South,SC,9.92,77.93
+220,Vasudevanallur,Tirunelveli,South,SC,9.92,77.93
+221,Kadayanallur,Tirunelveli,South,GEN,9.92,77.93
+222,Tenkasi,Tirunelveli,South,GEN,9.92,77.93
+223,Alangulam,Tirunelveli,South,GEN,9.92,77.93
+224,Tirunelveli,Tirunelveli,South,GEN,9.92,77.93
+225,Ambasamudram,Tirunelveli,South,GEN,9.92,77.93
+226,Palayamcottai,Tirunelveli,South,GEN,9.92,77.93
+227,Nanguneri,Tirunelveli,South,GEN,9.92,77.93
+228,Radhapuram,Tirunelveli,South,GEN,9.92,77.93
+229,Kanniyakumari,Kanniyakumari,South,GEN,9.92,77.93
+230,Nagercoil,Kanniyakumari,South,GEN,9.92,77.93
+231,Colachel,Kanniyakumari,South,GEN,9.92,77.93
+232,Padmanabhapuram,Kanniyakumari,South,GEN,9.92,77.93
+233,Vilavancode,Kanniyakumari,South,GEN,9.92,77.93
+234,Killiyoor,Kanniyakumari,South,GEN,9.92,77.93
